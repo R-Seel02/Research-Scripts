@@ -1,0 +1,16 @@
+1# Ignore all CSV files
+2*.csv
+3
+4# Ignore all result files
+51day_result*
+62day_result*
+7results_output*
+8
+9# Ignore text files
+10*.txt
+11
+12# Ignore everything else except the main Python file
+13*
+14!researchweek1.py
+15!.gitignore
+16
